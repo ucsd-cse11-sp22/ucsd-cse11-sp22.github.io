@@ -13,8 +13,8 @@ doodle: "/doodle.png"
 
 ### Remote Help
 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_9ohtqv634gkd09qfuoba4hqnos%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=c_5opvlo73bldf3n14nojolje6o4%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ### In-Person Help
 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_foaeia2ssgan402fr75ji56p4s%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=c_8t2iok181rahpuvdmlnorep724%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
