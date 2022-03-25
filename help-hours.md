@@ -78,4 +78,4 @@ The friendly faces of this course! We have 16 staff members(instructors, TAs, an
 to support you and help with your learning.
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRkNkg3OfiesJ2K3kAnN75z_flNi9KDXBHhg5TaxIJVOjcHtK6vp9wgfknoajmy5s6ZHfj2oBUzD1zY/pubhtml?widget=true&amp;headers=false"
-width="100%" height="630px"></iframe>
+width="100%" height="830px"></iframe>
