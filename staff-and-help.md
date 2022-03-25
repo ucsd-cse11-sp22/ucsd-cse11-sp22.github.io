@@ -18,8 +18,12 @@ Quick links:
   - You have permission to use _any_ lab, but prefer to use the B250 lab if space is available, that's where our staff will be based
 - Greg
   - Email: `g2miranda@eng.ucsd.edu`
-  - **In-person only office hours**: Monday 10:15am-11:15am, CSE 4204
-  - **Remote only office hours**: Thursday 9-10am, [https://ucsd.zoom.us/my/gregmiranda](https://ucsd.zoom.us/my/gregmiranda)
+  - **In-person only office hours**: Tuesday 9:45am-11:15am, CSE 4204
+  - **Remote only office hours**: Thursday 9:45am-11:15am, [https://ucsd.zoom.us/my/gregmiranda](https://ucsd.zoom.us/my/gregmiranda)
+
+Do NOT use the Canvas mailing feature to contact us. We will NOT respond to those
+messages. If you need to send a private message to the instructor, you can use his ucsd email
+address (but any course related questions should ideally be through Piazza).
 
 ## Message Board Questions
 
