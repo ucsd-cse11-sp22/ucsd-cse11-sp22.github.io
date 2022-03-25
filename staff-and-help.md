@@ -116,7 +116,7 @@ have any formalized support for auditing the course.
 
 
 **What if I have enrolled in CSE11 but won't be able to be in La Jolla for most
-or all of Winter 2022?**
+or all of Spring 2022?**
 
 If the attendance policy above doesn't address your situation, please contact
 `g2miranda@eng.ucsd.edu`.
