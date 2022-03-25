@@ -12,3 +12,4 @@ collections:
     output: true
   assignments-drafts:
     output: true
+theme: jekyll-theme-midnight
