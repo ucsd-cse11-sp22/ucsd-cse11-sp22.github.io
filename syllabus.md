@@ -30,17 +30,26 @@ and discuss more efficient strategies in office hours.
 
 There are a few components to your grade in the course:
 
-- Completing book exercises in Stepik and surveys (20%)
-- Programming assignments (20%)
-- Programming exams (60%)
+- Completing book exercises in Stepik and course engagement activities (surveys)
+- Programming assignments
+- Programming assessments (exams)
 
 Your final letter grade will be calculated as follows:
 
-![Grades](grades.png)
+- To get an A or above, you must:
+  - Complete **95%** of the book exercises/quizzes and course engagement activities (surveys)
+  - Get an average score of **85%** for the eight programming assignments
+  - Get an average score of **85%** for the three assessmesnts (exams)
 
-Your overall score is the main factor in determing your final grade using a standard
-grading scale. The cutoffs for each category must be met or your grade will be
-lowered appropriately regardless of your overall score.
+- To get a B or above, you must:
+  - Complete **85%** of the book exercises/quizzes and course engagement activities (surveys)
+  - Get an average score of **75%** for the eight programming assignments
+  - Get an average score of **75%** for the three assessmesnts (exams)
+
+- To get a C- or above (a P on the P/NP scale), you must:
+  - Complete **70%** of the book exercises/quizzes and course engagement activities (surveys)
+  - Get an average score of **60%** for the eight programming assignments
+  - Get an average score of **60%** for the three assessmesnts (exams)
 
 We may adjust the above scale to be more lenient (depending on a number of
 factors that we will not publicize), but we guarantee that we will not adjust
