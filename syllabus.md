@@ -54,7 +54,8 @@ Your final letter grade will be calculated as follows:
 We may adjust the above scale to be more lenient (depending on a number of
 factors that we will not publicize), but we guarantee that we will not adjust
 the scale to make it harder to get a better grade. We will not adjust the scale
-for individual students. Pluses and minuses will be given at the instructors'
+for individual students. We will also not round grades up. 
+Pluses and minuses will be given at the instructors'
 discretion around the boundaries of these categorizations.
 
 <h3>Problem Sessions – Lecture</h3>
