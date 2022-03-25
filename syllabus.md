@@ -64,13 +64,6 @@ readings, with associated interactive activities. Lectures will involve problem
 solving with your classmates. Participation is not required at problem-solving
 sections, but it is highly encouraged.
 
-For the first two weeks, lectures will be remote (see Canvas for Zoom link). 
-Starting in Week 3, lectures will move to in-person. 
-
-**Remote sessions** will be led during the normally-scheduled lecture times
-on Zoom, led by the instructor. These sessions will be recorded and uploaded
-several hours after the lecture. You can find the recordings in the Canvas Media Gallery. 
-
 **In-person sessions** will be led during the normally-scheduled lecture times
 in the normally-scheduled room, led by the instructor. These sessions will be
 recorded by podcasting but will not be available remotely while they are ongoing. 
@@ -81,13 +74,9 @@ an archive of any live demos that come up rather than a presentation of core con
 
 <h3>Discussion</h3>
 
-Teaching Assistants (TAs) will hold a weekly discussion section to
-cover the weekly programming assignment, review prior content, and answer
-student questions. Participation is not required at problem-solving
-sections, but it is highly encouraged.
-
-For the first two weeks, discussions will be remote (see Canvas for Zoom link). 
-Starting in Week 3, discussions will move to in-person in the normally-sheduled room. 
+Teaching Assistants (TAs) will hold a weekly discussion section to cover the weekly 
+programming assignment, review prior content, and answer student questions.
+ Participation is not required at problem-solving sections, but it is highly encouraged.
 
 Like lectures, discussions will also be recorded and made available in the 
 Cavnas Media Gallery.
@@ -108,9 +97,8 @@ session and so that you know the expected pace of the course.
 All Stepik exercises must be completed by the last day of class in Week 10: March 11, 2022 at 10pm.
 After this time, no late submissions will be accepted, for any reason.
 
-To ensure you get credit for the Stepik exercises, you must fill out this [form](https://forms.gle/4MqJwT7R2YiM2nLE9)
+To ensure you get credit for the Stepik exercises, you must fill out this [form](https://forms.gle/oupi3xifMT6zxTKE6)
 by Friday of Week 2. Starting in Week 3, we will strive to post Stepik grades to Canvas every week.
-
 
 <a id="p:programming"></a>
 <h3>Programming</h3>
@@ -127,6 +115,8 @@ will grade your work and get feedback on what, if anything, you need to fix.
 based on the feedback from grading. You can resubmit your work to the Late/Resubmit 
 submission and request to have your work regraded up to three more times (for each PA). 
 A staff member will grade your resubmission and let you know when it has been graded. 
+Note: depending on how busy the staff is, it may take up to a week to grade your resubmission. 
+It may also take another week or so after it's graded before the grade is moved to Canvas.
 
 There is no penalty for resubmissions, you can still earn full credit. 
 We will take the highest score between your original submission and your late/resubmissions.
@@ -138,7 +128,6 @@ before the original deadline.
 
 The **Hard deadline** for all late/resubmissions is Friday of Week 10 at 10pm. We will not accept
 any submissions after that time, for any reason.
-
 
 <a id="g:exams"></a>
 <h3>Exams</h3>
