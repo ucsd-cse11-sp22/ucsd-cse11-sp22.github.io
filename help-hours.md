@@ -32,7 +32,7 @@ You can get remote help from anywhere as long as you have a stable internet conn
 
 Then follow the steps in the tutoring procedures document for submitting a ticket.
 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_9ohtqv634gkd09qfuoba4hqnos%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=c_5opvlo73bldf3n14nojolje6o4%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ### In-person Help
 
