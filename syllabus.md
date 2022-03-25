@@ -51,10 +51,10 @@ Your final letter grade will be calculated as follows:
   - Get an average score of **60%** for the eight programming assignments
   - Get an average score of **60%** for the three assessmesnts (exams)
 
-We may adjust the above scale to be more lenient (depending on a number of
-factors that we will not publicize), but we guarantee that we will not adjust
-the scale to make it harder to get a better grade. We will not adjust the scale
-for individual students. We will also not round grades up. 
+We will not round grades up. We may adjust the above scale to be more lenient 
+(depending on a number of factors that we will not publicize), but we guarantee 
+that we will not adjust the scale to make it harder to get a better grade. 
+We will not adjust the scale for individual students.  
 Pluses and minuses will be given at the instructors'
 discretion around the boundaries of these categorizations.
 
