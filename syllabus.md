@@ -35,9 +35,9 @@ There are a few components to your grade in the course:
 - Programming assessments (exams)
 
 Score key for mastery:
-2 - Mastered: PA or Exam score >= 85%
-1 - Some minor/major errors: PA or Exam score >= 60%
-0 - Incomplete: PA or Exam score < 60% or did not submit
+- 2 - Mastered: PA or Exam score >= 85%
+- 1 - Some minor/major errors: PA or Exam score >= 60%
+- 0 - Incomplete: PA or Exam score < 60% or did not submit
 
 Your final letter grade will be calculated as follows:
 
