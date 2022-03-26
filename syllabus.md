@@ -42,17 +42,17 @@ Score key for mastery:
 Your final letter grade will be calculated as follows:
 
 - To get an A or above, you must:
-  - Complete **all** book exercises/quizzes and course engagement activities
+  - Complete **all** book exercises/quizzes and course engagement activities (surveys)
   - Get a score of **2** on all but 1 programming assignment, and no **0**'s on programming assignments
   - Get a score of **2** on an assessment (exam) corresponding to each third of the course
 
 - To get a B or above, you must:
-  - Complete more than **75%** of the book exercises/quizzes and course engagement activities
+  - Complete more than **75%** of the book exercises/quizzes and course engagement activities (surveys)
   - Get a score of **2** on all but 2 programming assignments, and no **0**'s on programming assignments
   - Get a score of **2** on an assessment (exam) corresponding to two of the three thirds of the course and at least a **1** on the final third.
 
 - To get a C- or above (a P on the P/NP scale), you must:
-  - Complete more than half book exercises/quizzes and course engagement activities
+  - Complete more than half book exercises/quizzes and course engagement activities (surveys)
   - Get a score of **2** on at least half of the programming assignments
   - Get a score of at least **1** on an assessment (exam) corresponding to each third of the course
 
