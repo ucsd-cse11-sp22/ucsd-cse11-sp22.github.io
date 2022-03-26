@@ -28,7 +28,7 @@ address (but any course related questions should ideally be through Piazza).
 ## Message Board Questions
 
 You can post questions on our Piazza message board at any time:
-[https://piazza.com/ucsd/spring2022/cse11_wi22/home](https://piazza.com/ucsd/spring2022/cse11_wi22/home)
+[https://piazza.com/ucsd/spring2022/cse11_sp22/home](https://piazza.com/ucsd/spring2022/cse11_sp22/home)
 
 The message board is a good place for questions about something that was
 confusing in class, in videos, in the book, or generally about course content.
