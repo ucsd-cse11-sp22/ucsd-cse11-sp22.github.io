@@ -34,24 +34,29 @@ There are a few components to your grade in the course:
 - Programming assignments
 - Programming assessments (exams)
 
+Score key for mastery:
+2 - Mastered: PA or Exam score >= 85%
+1 - Some minor/major errors: PA or Exam score >= 60%
+0 - Incomplete: PA or Exam score < 60% or did not submit
+
 Your final letter grade will be calculated as follows:
 
 - To get an A or above, you must:
-  - Complete **95%** of the book exercises/quizzes and course engagement activities (surveys)
-  - Get an average score of **85%** for the eight programming assignments
-  - Get an average score of **85%** for the three assessmesnts (exams)
+  - Complete **all** book exercises/quizzes and course engagement activities
+  - Get a score of **2** on all but 1 programming assignment, and no **0**'s on programming assignments
+  - Get a score of **2** on an assessment (exam) corresponding to each third of the course
 
 - To get a B or above, you must:
-  - Complete **85%** of the book exercises/quizzes and course engagement activities (surveys)
-  - Get an average score of **75%** for the eight programming assignments
-  - Get an average score of **75%** for the three assessmesnts (exams)
+  - Complete more than **75%** of the book exercises/quizzes and course engagement activities
+  - Get a score of **2** on all but 2 programming assignments, and no **0**'s on programming assignments
+  - Get a score of **2** on an assessment (exam) corresponding to two of the three thirds of the course and at least a **1** on the final third.
 
 - To get a C- or above (a P on the P/NP scale), you must:
-  - Complete **70%** of the book exercises/quizzes and course engagement activities (surveys)
-  - Get an average score of **60%** for the eight programming assignments
-  - Get an average score of **60%** for the three assessmesnts (exams)
+  - Complete more than half book exercises/quizzes and course engagement activities
+  - Get a score of **2** on at least half of the programming assignments
+  - Get a score of at least **1** on an assessment (exam) corresponding to each third of the course
 
-We will not round grades up. We may adjust the above scale to be more lenient 
+We may adjust the above scale to be more lenient 
 (depending on a number of factors that we will not publicize), but we guarantee 
 that we will not adjust the scale to make it harder to get a better grade. 
 We will not adjust the scale for individual students.  
