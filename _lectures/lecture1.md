@@ -6,7 +6,10 @@ released-on: "2022-03-28"
 videos:
 
 worksheets:
-
+  - title: 9AM Lecture (A00)
+    url: https://drive.google.com/file/d/1wCh5yde02i33ZFvy8EQCGOOOC4o2o-ZV
+  - title: 10AM Lecture (B00)
+    url: https://drive.google.com/file/d/1wEwEGe1VofowUuk7f3v3IwZfK37JxJ3t
 ---
 ## Problem Session 1 – Introduction
 
