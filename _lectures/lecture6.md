@@ -25,7 +25,7 @@ Readings to be completed **before** problem session.
 
 - Stepik Chapter 5 [https://stepik.org/lesson/573908/step/1?unit=568498](https://stepik.org/lesson/573908/step/1?unit=568498)
 
-Videos (to watch **before** your problem session on April 6):
+Videos (to watch **before** your problem session on April 8):
 
 {% for video in page.videos %}
 [{{ video.title }}]({{ video.url }}){:target="_blank"}
