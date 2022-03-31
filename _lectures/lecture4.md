@@ -39,7 +39,7 @@ Handout
 
 <iframe src="https://drive.google.com/file/d/1hRvp-vspBMLX9GFSKYZkF0iSvvdsMLjZ/preview" width="640" height="480" allow="autoplay"></iframe>
 
-## Completed Worksheets from Dicussion and Lecture
+## Completed Worksheets Lecture
 
 {% for worksheet in page.worksheets %}
 <div class="worksheetBox">
