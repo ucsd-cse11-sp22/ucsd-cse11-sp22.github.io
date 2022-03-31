@@ -37,7 +37,7 @@ Handout:
 
 <iframe src="https://drive.google.com/file/d/1hY2zSmahlGeYhdXlmlN2nhDez5rwYsYx/preview" width="640" height="480" allow="autoplay"></iframe>
 
-## Completed Worksheets Lecture
+## Completed Worksheets from Lecture
 
 {% for worksheet in page.worksheets %}
 <div class="worksheetBox">
