@@ -16,7 +16,10 @@ videos:
     url: https://drive.google.com/file/d/1m_72isftSttgHZ9Rj9PR1I4hPbzzAFyH
 
 worksheets:
-
+  - title: 9AM Lecture (A00)
+    url: https://drive.google.com/file/d/10vCXtTsSuc1J4DdforwSF9tre85g3IOu
+  - title: 10AM Lecture (B00)
+    url: https://drive.google.com/file/d/114NiO3ZtVNAsAvru7m5sMWoCtwIuS7__
 ---
 
 ## Problem Session 3 – Vocabulary and Methods
