@@ -14,7 +14,10 @@ videos:
     url: https://drive.google.com/file/d/1Akg2I_XKXuyOImRrVD6phPk-x-YBfcL8
 
 worksheets:
-
+  - title: 9AM Lecture (A00)
+    url: https://drive.google.com/file/d/178k3Y7gp5XAV9aKoQkGXUW0_6dQr8YnJ
+  - title: 10AM Lecture (B00)
+    url: https://drive.google.com/file/d/173aRlCwa-qrPKwElSJoDn6q9TCCubODB
 ---
 
 ## Problem Session 5 – Booleans and If
