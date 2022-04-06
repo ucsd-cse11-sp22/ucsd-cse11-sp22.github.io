@@ -16,7 +16,10 @@ videos:
     url: https://drive.google.com/file/d/1WnSDBSOGSXnsvAvgdYduFYzuS9RTIscK
 
 worksheets:
-
+  - title: 9AM Lecture (A00)
+    url: https://drive.google.com/file/d/136UarTqzPwONQU7W5Fja8BSYQgByo5W9
+  - title: 10AM Lecture (B00)
+    url: https://drive.google.com/file/d/13K6RQ6Cfm5K8SPcOWhGeHEgLbJ4VZxpC
 ---
 
 ## Problem Session 4 – Strings and More Methods 
