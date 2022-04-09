@@ -14,7 +14,10 @@ videos:
     url: https://drive.google.com/file/d/1-5P1JWdzCCfGpwh1aW7jLYApipzJgmKc
 
 worksheets:
-
+  - title: 9AM Lecture (A00)
+    url: https://drive.google.com/file/d/18pVqYPaJwJeWsiKmMfRiY7t1XnoBGZ5-
+  - title: 10AM Lecture (B00)
+    url: https://drive.google.com/file/d/18b3mO7KVoPREpexIAOApLKD3awOOieZs
 ---
 
 ## Problem Session 6 – Classes and Constructors
