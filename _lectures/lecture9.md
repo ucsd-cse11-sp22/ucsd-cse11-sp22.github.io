@@ -11,7 +11,7 @@ worksheets:
 
 _{{ page.released-on }}_
 
-Due to the exam, there will be no in-person lecture on Friday, April 15.
+Due to the early release of the exam, there will be no in-person lecture on Friday, April 15.
 
 Watch the Lecture Video Recording (From Winter 2022) and do the handouts on your own. You can find the video
 recording at the bottom of this page.
