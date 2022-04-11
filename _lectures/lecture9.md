@@ -11,7 +11,9 @@ worksheets:
 
 _{{ page.released-on }}_
 
-Stepik reading (to complete before class on January 24):
+
+
+Stepik reading (to complete before class on April 15):
 - [Stepik 7](https://stepik.org/lesson/584041/step/10?unit=578810)
 
 No pre-watch videos for April 15 (take the time to review some others!).
