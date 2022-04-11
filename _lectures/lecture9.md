@@ -11,7 +11,10 @@ worksheets:
 
 _{{ page.released-on }}_
 
+Due to the exam, there will be no in-person lecture on Friday, April 15.
 
+Watch the Lecture Video Recording (From Winter 2022) and do the handouts on your own. You can find the video
+recording at the bottom of this page.
 
 Stepik reading (to complete before class on April 15):
 - [Stepik 7](https://stepik.org/lesson/584041/step/10?unit=578810)
@@ -26,6 +29,12 @@ discuss interfaces until the next class:
 Handout:
 
 <iframe src="https://drive.google.com/file/d/1n7L9htMXqHneP0HFahuxucobzNIgR-kd/preview" width="640" height="480" allow="autoplay"></iframe>
+
+## Lecture Video Recording (From Winter 2022)
+
+[Lecture 9 - Recording](https://drive.google.com/file/d/1oXd7SkEuVPBdWZR7tg9hoCu3TmJoYPhJ){:target="_blank"}
+
+<iframe src="https://drive.google.com/file/d/1oXd7SkEuVPBdWZR7tg9hoCu3TmJoYPhJ/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Completed Worksheets from Dicussion and Lecture
 
