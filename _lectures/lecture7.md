@@ -12,7 +12,10 @@ videos:
     url: https://drive.google.com/file/d/1WSf8sB8OZOz8Y4O8x7l4qKLP4McYIqo7
 
 worksheets:
-
+  - title: 9AM Lecture (A00)
+    url:  https://drive.google.com/file/d/19satqAnmbFiHcjHbu93ipYLRtqJwfB0n
+  - title: 10AM Lecture (B00)
+    url: https://drive.google.com/file/d/19svW0OWw8Mpa7uuFA2CBvaL3UGCjnVRK
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
