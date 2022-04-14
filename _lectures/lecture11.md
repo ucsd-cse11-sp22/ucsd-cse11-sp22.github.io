@@ -31,12 +31,6 @@ Stepik reading:
 
 <iframe src="https://drive.google.com/file/d/1nUCwjiK6tzwEyRciOayfLks_7hh-Hfxs/preview" width="640" height="480" allow="autoplay"></iframe>
 
-## Zoom Recording
-
-[Lecture 11 - Recording](https://drive.google.com/file/d/1tlHBKsaPrCGEEOYEIcN-In0L-NQWGC0O){:target="_blank"}
-
-<iframe src="https://drive.google.com/file/d/1tlHBKsaPrCGEEOYEIcN-In0L-NQWGC0O/preview" width="640" height="480" allow="autoplay"></iframe>
-
 ## Completed Worksheets from Dicussion and Lecture
 
 {% for worksheet in page.worksheets %}
