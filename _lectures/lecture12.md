@@ -36,10 +36,6 @@ Stepik reading:
 
 <iframe src="https://drive.google.com/file/d/1tZWPqxH7Ct7Nb9jyL-sV2ID5JzP30K9L/preview" width="640" height="480" allow="autoplay"></iframe>
 
-## Recording
-
-[Lecture 12 - Recording](https://podcast.ucsd.edu/watch/wi22/cse11_a00/12){:target="_blank"}
-
 ## Completed Worksheets from Dicussion and Lecture
 
 {% for worksheet in page.worksheets %}
