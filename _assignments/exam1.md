@@ -101,8 +101,8 @@ Note that you should use the full design recipe – include enough examples to c
 
 In `BankTransfer.java`, you will add:
 - A new class called `TimeStamp` that represents a particular time an event occurred.
-- The timestamp must have a `String` field called `day`, a `String` field called `month`, and a `String` field called `year`.
-- A constructor for `TimeStamp` that takes arguments `day`, `month`, and `year` in that order.
+- The timestamp must have a `String` field called `date`, a `String` field called `month`, and a `String` field called `year`.
+- A constructor for `TimeStamp` that takes arguments `date`, `month`, and `year` in that order.
 
 In `BankTransfer.java`, you will add:
 - A new class called `Account` that represents a bank account.
