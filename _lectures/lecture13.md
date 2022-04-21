@@ -31,12 +31,12 @@ Stepik reading (same as previous reading, so no new reading):
 
 <iframe src="https://drive.google.com/file/d/1tdDJxnfvhltW0KTTR3dsERNRkESTA5Le/preview" width="640" height="480" allow="autoplay"></iframe>
 
-## Completed Worksheets from Dicussion and Lecture
+## Completed Worksheets from Lecture
 
 {% for worksheet in page.worksheets %}
 <div class="worksheetBox">
 {{ worksheet.title }}
 <br>
-<iframe src="{{ worksheet.url }}/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="{{ worksheet.url }}/preview" width="256" height="192" allow="autoplay"></iframe>
 </div>
 {% endfor %}
