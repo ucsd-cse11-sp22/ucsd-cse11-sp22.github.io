@@ -9,7 +9,10 @@ videos:
   - title: args
     url: https://drive.google.com/file/d/14Vtg9aJoa_E_34yIR1CLKDXn1KHIC-0e
 worksheets:
-
+  - title: 9AM Lecture (A00)
+    url: https://drive.google.com/file/d/1P9IKI_Cyz3PewJZc9ZqaJjjnteQm4Ka7
+  - title: 10AM Lecture (B00)
+    url: https://drive.google.com/file/d/1PezOBwqoraH7nshcIHHs1W3_phrQYW-g
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
