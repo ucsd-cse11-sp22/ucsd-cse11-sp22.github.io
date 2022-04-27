@@ -13,7 +13,10 @@ videos:
   - title: Loops Examples
     url: https://drive.google.com/file/d/1BwyC-9QP85-SX3VlSPkbNfWxjrmTd4dT
 worksheets:
-
+  - title: 9AM Lecture (A00)
+    url: https://drive.google.com/file/d/1QIFPuPR3ZMPWre_hvI5BtJfXFErMgcMj
+  - title: 10AM Lecture (B00)
+    url: https://drive.google.com/file/d/1QoAKRbUrTlRAKfCgteWBE880y9AIxL4R
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
