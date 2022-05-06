@@ -13,7 +13,10 @@ videos:
   - title: Range
     url: https://drive.google.com/file/d/1C_rnkqz2YHE6BsBcd2NUnWIYC1Fvts5Z
 worksheets:
-
+  - title: 9AM Lecture (A00)
+    url: https://drive.google.com/file/d/1eOhC38WjsCL3QrfqaBm-qXW-5GDus2re
+  - title: 10AM Lecture (B00)
+    url: https://drive.google.com/file/d/1eYdgWH3FyNYMf2njAFHq2RuhxHuTo3AL
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
