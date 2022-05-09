@@ -5,7 +5,10 @@ name: Connect 4!
 released-on: "2022-05-09"
 videos:
 worksheets:
-
+  - title: 9AM Lecture (A00)
+    url: https://drive.google.com/file/d/1ffSECmdyrpqIzO41gFr8_UTW7iBIJABN
+  - title: 10AM Lecture (B00)
+    url: https://drive.google.com/file/d/1ffoA8heYdFRq_tm2Z4aTCecAU-DN7eZF
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
