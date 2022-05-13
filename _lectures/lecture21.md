@@ -5,6 +5,10 @@ name: Debugging
 released-on: "2022-05-13"
 videos:
 worksheets:
+  - title: 9AM Lecture (A00)
+    url: https://drive.google.com/file/d/1pchd6xxTwCtaFU-aCqhLqo0P70xXhmtX
+  - title: 10AM Lecture (B00)
+    url: https://drive.google.com/file/d/1pADanQzo8hbQidhfhamCIiZJgHbMR1md
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
