@@ -11,7 +11,10 @@ videos:
     - title: "Implementing with Generics"
       url: https://drive.google.com/file/d/1bXk5leiFDmvc8b5fnqaox0Xd1AdwXS1_
 worksheets:
-
+  - title: 9AM Lecture (A00)
+    url: https://drive.google.com/file/d/1-QXvRcMg-rucHFAkVg8xq8wdgTiULSVB
+  - title: 10AM Lecture (B00)
+    url: https://drive.google.com/file/d/1-RH-4qAohzDkFNQPDDsUDcfvfDiE6oN9
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
