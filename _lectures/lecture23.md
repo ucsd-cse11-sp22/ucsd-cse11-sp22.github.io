@@ -9,7 +9,10 @@ videos:
     - title: "Wrapper Classes (Integer/Double/Boolean)"
       url: https://drive.google.com/file/d/1fxNkBh_BBr9uLfRtpU8X2B2FT9dq9Lne
 worksheets:
-
+  - title: 9AM Lecture (A00)
+    url: https://drive.google.com/file/d/167c0MeFp8X2h24fydYEAIW-lkj2HVEBw
+  - title: 10AM Lecture (B00)
+    url: https://drive.google.com/file/d/16-GDVoImvEocS05d7TcOj2VK7g6R43NB
 ---
 ## Problem Session {{ page.index }} – {{ page.name }}
 
