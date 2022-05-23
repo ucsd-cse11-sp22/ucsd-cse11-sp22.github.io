@@ -11,7 +11,10 @@ videos:
     - title: "Abstract Classes 2 (First 2:00 - 20:00)"
       url: https://drive.google.com/file/d/1Xp7owWbOOTB4ubOQgiwyI-En6ubOiDzN
 worksheets:
-
+  - title: 9AM Lecture (A00)
+    url: https://drive.google.com/file/d/17VGJVGbR2Vp7nUoUyGx-YRLWWfGF1JGF
+  - title: 10AM Lecture (B00)
+    url: https://drive.google.com/file/d/17Uyp-WKbvUQftK3lSV7ydcXAI7-msYot
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
