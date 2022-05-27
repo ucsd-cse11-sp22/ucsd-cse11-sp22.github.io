@@ -60,7 +60,7 @@ If you are having issues with getting the autograder to run successfully, you ma
 
 If your submission passes the autograder, then you should see output similar to:
 
-<img src="exam2_success.png">
+<img src="exam2_success.png">{:width="100%"}
 
 Be aware that the Sanity check does not check for code correctness, but rather that your code compiles. 
 
