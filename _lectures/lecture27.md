@@ -11,7 +11,10 @@ videos:
     - title: "Protected"
       url: https://drive.google.com/file/d/1-2lleGWYeeXkiTaRmWbTtOeM3lZ7uHSP
 worksheets:
-
+  - title: 9AM Lecture (A00)
+    url: https://drive.google.com/file/d/1CqkwWdXy3QWM8ceR6f2IwnjHLJcLZ7yO
+  - title: 10AM Lecture (B00)
+    url: https://drive.google.com/file/d/1Cn69Rsa5efSBShQkj0p_YTzvurI6YApO
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
