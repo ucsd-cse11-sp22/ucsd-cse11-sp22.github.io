@@ -84,8 +84,6 @@ Yes.
 ## Task 1 – Generics and Exceptions
 You will be writing your code in `ComparatorStack.java`. You will create a new generic class called `Stack` that will take 2 arguments for its constructor. `Stack` will have 2 fields: A generic `List<E>` object called `contents` and a `Comparator<E>` object called `comp`. These two fields will be set by its constructor. All imports have already been done for you.
 
-You may find [Collections.sort()](https://docs.oracle.com/javase/7/docs/api/java/util/Collections.html#sort(java.util.List,%20java.util.Comparator)) useful for this Task.
-
 Note: If you do not name these fields exactly, you will fail the autograder.
 
 ### Task 1.1
@@ -190,7 +188,7 @@ There may be analogous words across CSV files. Hence, if 'crisp' is analogous to
 
 There will always be a continuity across csv files for the query words and their analogous terms. This means that you only have to read the CSV files in order once. You will never have a case where an analogous word is in data_1.csv and data_3.csv, and you need to read data_2.csv to connect words from data_3.csv. 
 
-If you implement this correctly, then you should match the output below exactly. The order of your analogous list should be sorted and not contain the query term (if you use a Set, consider converting the Set to a [List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html) in order to sort). The order of the queries printed should match the order in the query file. Returned words for each query should only contain quique words without any duplicates. 
+If you implement this correctly, then you should match the output below exactly. The order of your analogous list should be sorted and not contain the query term (if you use a Set, consider converting the Set to a [List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html) in order to sort). You may find [Collections.sort()](https://docs.oracle.com/javase/7/docs/api/java/util/Collections.html#sort(java.util.List,%20java.util.Comparator)) useful for this Task. The order of the queries printed should match the order in the query file. Returned words for each query should only contain quique words without any duplicates. 
 
 ```java
 $ java CSVTool queries_1.txt data_1.csv
