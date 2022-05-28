@@ -13,7 +13,10 @@ videos:
     - title: "toString()"
       url: https://drive.google.com/file/d/1yeM6VHMe6mLeIV_dpjx0yWG6XZ7QjlPo
 worksheets:
-
+  - title: 9AM Lecture (A00)
+    url: https://drive.google.com/file/d/1DRfVWl1KkvpbZa0Yg-dS1NBkQg687MZk
+  - title: 10AM Lecture (B00)
+    url: https://drive.google.com/file/d/1DQZjz3mrAbiyv0oDUf8PC3au0h39wnj_
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
