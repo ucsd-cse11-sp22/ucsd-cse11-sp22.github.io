@@ -27,6 +27,10 @@ worksheets:
 
 _{{ page.released-on }}_
 
+Due to family emergency, there will be no in-person lecture on Wednesday, June 1st.
+
+Watch the Lecture Video Recording (From Winter 2022) and do the handouts on your own. You can find the video recording at the bottom of this page.
+
 ## Pre-class Tasks
 
 This worked example will serve as a review of most of the topics we've seen in
@@ -46,7 +50,11 @@ Code from videos:
 
 Handout:
 
+Part1:
 <iframe src="https://drive.google.com/file/d/1wQmk5a1U8bDqJ8jkWIR-QY2D0vvDnPqR/preview" width="640" height="480" allow="autoplay"></iframe>
+
+Part2:
+<iframe src="https://drive.google.com/file/d/1wBkmYhT0M9pDrUAXX-cGrBp1mdnxJIzU/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Recording
 
