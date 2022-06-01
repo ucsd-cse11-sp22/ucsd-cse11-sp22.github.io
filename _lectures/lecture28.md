@@ -19,7 +19,8 @@ videos:
     - title: "Trace 2"
       url: https://drive.google.com/file/d/1fIpX2oxDNnKQx2yhilkzDXvklS-S96k3
 worksheets:
-  
+  - title: Lecture
+    url: https://drive.google.com/file/d/1SDVq3zfMM-2fOYoj_-6S-_Ci8yhE3YYa
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
@@ -46,6 +47,10 @@ Code from videos:
 Handout:
 
 <iframe src="https://drive.google.com/file/d/1wQmk5a1U8bDqJ8jkWIR-QY2D0vvDnPqR/preview" width="640" height="480" allow="autoplay"></iframe>
+
+## Recording
+
+[Lecture 28 - Recording](https://podcast.ucsd.edu/watch/wi22/cse11_a00/28){:target="_blank"}
 
 ## Completed Worksheets from Lecture
 
