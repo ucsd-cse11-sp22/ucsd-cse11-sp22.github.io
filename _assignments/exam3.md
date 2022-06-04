@@ -2,7 +2,7 @@
 layout: with-sidebar
 index: 11
 name: Exam 3
-released-on: "2022-5-27"
+released-on: "2022-05-27"
 ---
 # Exam 3
 
