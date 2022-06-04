@@ -4,7 +4,10 @@ index: 29
 name: AUA and Goodbye!
 released-on: "2022-06-03"
 worksheets:
-  
+  - title: 9AM Lecture (A00)
+    url: https://drive.google.com/file/d/1KgHeQRBvQX54URu8v-rdemaet3qgE_y1
+  - title: 10AM Lecture (B00)
+    url: https://drive.google.com/file/d/1KypPpa87Ak4mygI7iL5oV-IBLYW9WGSD
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
