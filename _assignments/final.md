@@ -161,9 +161,9 @@ Your task:
 
 An example of what your video should look like when doing this kind of explanation is here:
 
-https://drive.google.com/file/d/117NfZaHXbHtMJZJmLRVeRy-1b9cY3jei/view?usp=sharing
+[https://drive.google.com/file/d/117NfZaHXbHtMJZJmLRVeRy-1b9cY3jei/view?usp=sharing](https://drive.google.com/file/d/117NfZaHXbHtMJZJmLRVeRy-1b9cY3jei/view?usp=sharing)
 
-Here is a tutorial for creating a screencast like this https://ucsd-cse11-sp22.github.io/assignments/pa2.html.
+Here is a tutorial for creating a screencast like this [https://ucsd-cse11-sp22.github.io/assignments/pa2.html](https://ucsd-cse11-sp22.github.io/assignments/pa2.html).
 
 Here are some notes on how to improve your videos:
 
