@@ -206,10 +206,12 @@ Notes:
 - When printing the digits, make sure that they are `String`
 
 Example: 
+```
 java Even 12346
 2
 4
 6
+```
 
 ### Task 3 - ToText
 
