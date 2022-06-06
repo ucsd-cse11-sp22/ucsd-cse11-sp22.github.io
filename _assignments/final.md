@@ -7,7 +7,7 @@ released-on: "2022-06-04"
 # Final Exam
 
 ### Release: 8am Saturday June 4, 2022
-### Due: 8am Saturday June 7, 2022
+### Due: 8am Tuesday June 7, 2022
 
 
 This page details a take-home exam that you will complete over the next few
