@@ -230,7 +230,7 @@ For the area of the Circle, please use the pi value of 3.14 for calculation.
 Create a video of no more than 5 minutes:
 
 - Show your ID as usual
-- Run an example of `mode` where the mode is not the first or last element in the array. Show the output, then write a loop table of a single loop in the body of `mode` showing each variable's value before and after each loop iteration. Put this table as a comment and follow the same format as described in the video task for [Exam 2](https://ucsd-cse11-sp22.github.io/assignments/exam2.html). Note that you will need to show any variables that you create and change over time in the loop. 
+- Run an example of `mode` where the missing number is not the first or last element in the array. Show the output, then write a loop table of a single loop in the body of `mode` showing each variable's value before and after each loop iteration. Put this table as a comment and follow the same format as described in the video task for [Exam 2](https://ucsd-cse11-sp22.github.io/assignments/exam2.html). Note that you will need to show any variables that you create and change over time in the loop. 
 
 <img src="part2.png">{:width="100%"}
 
