@@ -213,7 +213,7 @@ java Even 12346
 6
 ```
 
-### Task 3 - ToText
+### Task 3 - findArea
 
 In the file `Area.java`, we have provided code for the `Shape` interface and 4 classes that implement `Shape`. Your task will be to add a `findArea()` method to the `Shape` interface and implement it in all 4 classes. The 4 classes are: Square, Circle, Triangle and Trapezoid
 
